@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
 sendmail.py
 - 표준 라이브러리만 사용한 Gmail SMTP 메일 발송 스크립트
